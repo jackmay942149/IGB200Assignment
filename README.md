@@ -20,4 +20,12 @@ Download Latest Release on Right -->
 **Option 2:**  
 - Download the `.apk` and `.bat` file.  
 - Connect your Android device to your PC via USB.  
-- Run the `.bat` file (requires [ADB](https://developer.android.com/studio/releases/platform-tools)).  
+- Run the `.bat` file (requires [ADB](https://developer.android.com/studio/releases/platform-tools)).
+
+## 👥 Team  
+| Name | Role | LinkedIn |
+|------|------|----------|
+| **Jack May** | Programmer | [LinkedIn](https://www.linkedin.com/in/jack-may-50154021b/) |
+| **Ada Ogiegło** | Artist | [LinkedIn](https://www.linkedin.com/in/ada-ogieg%C5%82o-39653a267/) |
+| **Rhiann Steenstrup** | Designer/Sound | [LinkedIn](https://www.linkedin.com/in/TeammateLinkedIn) |
+| **Stephen Liu** | Designer | [LinkedIn](https://www.linkedin.com/in/TeammateLinkedIn) |
